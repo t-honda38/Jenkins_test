@@ -3,10 +3,3 @@ Edit test!
 branch test!
 Git Jenkins!
 Jenkins!!
-GIT!!
-111
-222
-
-GITT!
-
-aaaa
